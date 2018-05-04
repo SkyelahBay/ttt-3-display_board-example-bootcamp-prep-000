@@ -2,4 +2,4 @@
 phrase = "Welcome to Tic Tac Toe"
 def display_board
   puts phrase
-  
+  puts "   |   |   "
